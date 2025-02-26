@@ -2337,6 +2337,15 @@ footer p {
 
 .our-partner .partner-slider {
   border-top: 1px solid #B7B7B7;
+  overflow: visible; /* Allow content to be visible */
+}
+
+.reservation-page {
+  overflow: visible; /* Allow content to be visible */
+}
+
+.about-page .about-story .story-timeline .story-indicators .slick-list {
+  overflow: visible; /* Allow content to be visible */
 }
 
 /* counter start */
